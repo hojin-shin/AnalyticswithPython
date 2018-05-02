@@ -1,0 +1,6 @@
+<파일 내용>
+1csv_read_with_simple_parsing_and_write : csv파일을 받아서 데이터를 읽은 후 output.csv파일에 출력(csv모듈사용x)
+2csv_reader_parsing_and_write : csv파일받아서 output.csv파일에 출력(csv모듈사용)
+pandas_parsing_and_write : csv파일받아서 output.csv파일에 출력(pandas모듈사용)
+pandas_value_meets_condition , 3csv_reader_value_meets_condition : csv 데이터 받아서 조건입력 후 조건에 맞는 항목 output.csv에 출력
+  *위 5개파일 모두 supplier_data.csv 파일 입력받음
