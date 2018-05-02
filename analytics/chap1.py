@@ -19,7 +19,7 @@ print("Output #24 : {0} {1} {2}".format(string2_list[1], string2_list[5], string
       
 print("Output #25 : {0}".format(','.join(string2_list)))
      
-string3 = " Remonve  unwanted characters    from this string.\t\t      \n"
+string3 = " Remove  unwanted characters    from this string.\t\t      \n"
 print("output #26 : string3 : {0:s}".format(string3))
 string3_lstrip = string3.lstrip()
 print("Output #27 : lstrip : {0:s}".format(string3_lstrip))
